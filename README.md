@@ -1,3 +1,3 @@
 # icon
 
-<img src="./public/default.png" style="width:100%;">
+<img src="./default.png" style="width:100%;">
